@@ -1,1 +1,1 @@
-# 20242IT6097002_N1_ANH_TRINH_TRA_HUNG_TRUONG
+Phân tích đặc tả yêu cầu phần mềm - Nhóm 1
